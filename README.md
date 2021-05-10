@@ -2,3 +2,5 @@
 
 [![Board Status](https://myarmoor.visualstudio.com/6d91fc88-4fc9-43c0-8dc4-abf6e58ae481/7b0141df-9e04-40cc-a1c2-6105d462ff95/_apis/work/boardbadge/02ae9eff-3717-490f-aa65-9161d994d03e)](https://myarmoor.visualstudio.com/6d91fc88-4fc9-43c0-8dc4-abf6e58ae481/_boards/board/t/7b0141df-9e04-40cc-a1c2-6105d462ff95/Microsoft.RequirementCategory/)
 https://myarmoor.visualstudio.com/BuilProject/_apis/build/status/BuilProject-Xamarin.Android-CI
+https://myarmoor.visualstudio.com/BuilProject/_apis/build/status/BuilProject-Xamarin.Android-CI?branchName=master
+[![Build status](https://myarmoor.visualstudio.com/BuilProject/_apis/build/status/BuilProject-Xamarin.Android-CI)](https://myarmoor.visualstudio.com/BuilProject/_build/latest?definitionId=7)
