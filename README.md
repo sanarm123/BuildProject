@@ -1,5 +1,5 @@
 
-[![Build status](https://myarmoor.visualstudio.com/BuilProject/_apis/build/status/BuilProject-Xamarin.Android-CI)]
+[![Quality gate](https://sonarcloud.io/api/project_badges/quality_gate?project=BuildProject)](https://sonarcloud.io/dashboard?id=BuildProject)
 
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=BuildProject&metric=alert_status)](https://sonarcloud.io/dashboard?id=BuildProject)
 
